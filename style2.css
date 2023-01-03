@@ -1,0 +1,44 @@
+/* Login Form Styling start from here........ */
+
+.form-style{
+    max-width: 400px;
+    border: 2px solid #B7A47E;
+    border-radius: 30px;
+    box-shadow: 5px 5px 5px 5px #cfc5b1;
+}
+
+.logo-style{
+    display: inline-block;
+    text-align: center;
+}
+.label-color{
+    color: rgb(143, 135, 135);
+}
+
+input[type=text]{
+    border: 2px solid #B7A47E;
+    border-radius: 30px;
+}
+
+input[type=password]{
+    border: 2px solid #B7A47E;
+    border-radius: 30px;
+}
+
+.login-account{
+    background-color: rgba(255, 255, 255, 0.555);
+    border: 2px solid #B7A47E;
+    border-radius: 30px;
+    font-weight: bold;
+    color:#B7A47E;
+}
+
+.login-account:hover{
+    background-color: #B7A47E;
+    border: 2px solid #B7A47E;
+    border-radius: 30px;
+    font-weight: bold;
+    color:rgb(255, 255, 255);
+}
+
+
